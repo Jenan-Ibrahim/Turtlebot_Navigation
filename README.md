@@ -82,5 +82,7 @@ $ export TURTLEBOT3_MODEL=burger
 $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml
 ```
 **_13. Set Navigation Goal:_**
+
 _1/ Click the "2D Nav Goal" button in the RViz menu._
+
 _2/ Click on the map to set the destination of the robot and drag the green arrow toward the direction where the robot will be facing._
